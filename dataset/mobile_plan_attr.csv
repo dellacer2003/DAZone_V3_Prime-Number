@@ -1,0 +1,10 @@
+mobile_plan;description;price;duration
+DATASILVER;2GB/ day, high speed;100000;5d
+DATAGOLD;5GB/ day, high speed;200000;5d
+SOCIALMEDIA;"1GB/ day
+Unlimited for Tik Tok, Facebook, Youtube";150000;3d
+SOCIALMEDIAGOLD;"3GB/ day, high speed
+Unlimited for Tik Tok, Facebook, Youtube";250000;3d
+DATACALL;"2GB/ day, high speed
+300 mins call for external network
+Unlimited call for internal network";200000;5d
