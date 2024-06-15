@@ -5,6 +5,7 @@ missingno==0.5.2
 mlxtend==0.22.0
 numpy==1.26.4
 pandas==2.2.2
+plotly==5.14.1
 scikit-learn==1.5.0
 scipy==1.13.1
 seaborn==0.13.2
