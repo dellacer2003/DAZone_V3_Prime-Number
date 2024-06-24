@@ -1,6 +1,0 @@
-{
-    "classifier__grow_policy": "depthwise",
-    "classifier__learning_rate": 1,
-    "classifier__max_depth": 7,
-    "classifier__n_estimators": 10
-}
